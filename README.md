@@ -1,4 +1,4 @@
-# Stocks Sentiment Analysis
+# Stock Sentiment Analysis
 
 This
 project is used to analyze the posts and comments from the daily discussion thread of the "WallStreetBets" subreddit.
